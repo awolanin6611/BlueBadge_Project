@@ -1,0 +1,16 @@
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\bin\Debug\Userinfo.data.dll.config
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\bin\Debug\Userinfo.data.dll
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\bin\Debug\Userinfo.data.pdb
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\bin\Debug\EntityFramework.dll
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\bin\Debug\EntityFramework.xml
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\obj\Debug\Userinfo.Data.csprojAssemblyReference.cache
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\obj\Debug\Userinfo.Data.csproj.CoreCompileInputs.cache
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\obj\Debug\Userinfo.Data.csproj.CopyComplete
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\obj\Debug\Userinfo.data.dll
+C:\Users\awola\source\repos\BlueBadge_Project\Userinfo.data\obj\Debug\Userinfo.data.pdb

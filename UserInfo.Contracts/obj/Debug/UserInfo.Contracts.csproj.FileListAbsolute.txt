@@ -1,0 +1,16 @@
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\bin\Debug\UserInfo.Contracts.dll.config
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\bin\Debug\UserInfo.Contracts.dll
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\bin\Debug\UserInfo.Contracts.pdb
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\obj\Debug\UserInfo.Contracts.csprojAssemblyReference.cache
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\obj\Debug\UserInfo.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\obj\Debug\UserInfo.Contracts.csproj.CopyComplete
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\obj\Debug\UserInfo.Contracts.dll
+C:\Users\awola\source\repos\BlueBadge_Project\UserInfo.Contracts\obj\Debug\UserInfo.Contracts.pdb
